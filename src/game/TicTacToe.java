@@ -12,7 +12,7 @@ import java.util.Scanner;
 /**
  * Игра "Крестики-нолики"
  *
- * @version 5.0
+ * @version 6.0
  * @author Andrey Pomelov
  */
 public class TicTacToe {
